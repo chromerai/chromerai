@@ -5,15 +5,20 @@
 
 👋 Welcome to my GitHub page!
 
-I'm thrilled to connect with you and showcase my passion for data science. As an aspiring data scientist, I am actively seeking new opportunities to further develop my career and make meaningful contributions in this dynamic field.
+I'm thrilled to connect with you and showcase my passion for data science. 
 
-Hello, my name is Kaustubh Mishra and I am a master's student at [New York University](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) majoring in Computer Engineering. With a solid foundation in mathematics, statistics, and programming, I am constantly exploring innovative ways to extract valuable insights from complex datasets. I have a keen interest in applying machine learning algorithms and predictive modeling techniques to solve real-world problems. Leveraging my strong analytical skills and curiosity, I strive to uncover hidden patterns and drive data-driven decision-making processes.
+A little about me: My name is Kaustubh Mishra and I am a master's student at [New York University](https://engineering.nyu.edu/) majoring in [Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). 
+
+I did my undergrad in [Electronics and Instrumentation Engineering](http://eie.nits.ac.in/) from [National Institute of Technology, Silchar](http://www.nits.ac.in/). 
+
+With a solid foundation in mathematics, statistics, and programming, I am constantly exploring innovative ways to extract valuable insights from complex datasets. I have a keen interest in applying machine learning algorithms and predictive modeling techniques to solve real-world problems. Leveraging my strong analytical skills and curiosity, I strive to uncover hidden patterns and drive data-driven decision-making processes.
+
+If you're looking for a dedicated and driven data scientist to join your team or collaborate on a project, I would be thrilled to explore potential opportunities. Please feel free to reach out to me via the contact information provided on my GitHub profile. Let's connect, share ideas, and together, create impactful solutions in the world of data science.
 
 
-- 💬 Brainstorm with me over tech, algorithms, and music
 - 📫 How to reach me: kaustubhmishra983@gmail.com, km5939@nyu.edu
 - 😄 Pronouns: Techie/He/Him
-- Well also find me: 
+- Well also find me on: [LinkedIn](https://www.linkedin.com/in/kaustubh-mishra-54556917b/), [Kaggle](https://www.kaggle.com/chromerai)
 - 📝 [Resume]
 
 **Languages and Tools:** 
@@ -33,8 +38,11 @@ Hello, my name is Kaustubh Mishra and I am a master's student at [New York Unive
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ![Kaustubh's Github Stats](https://github-readme-stats.vercel.app/api?username=chromerai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&hide=javascript,css,scss,html&theme=tokyonight)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chromerai.chromerai)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromerai&repo=S23-ECE-GY-RTES-EMBEDDED-CHALLENGE)](https://github.com/chromerai/github-readme-stats)
 
+***Thank you for visiting my page, and I look forward to connecting with you soon!***
