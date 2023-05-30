@@ -38,7 +38,7 @@ If you're looking for a dedicated and driven data scientist to join your team or
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;&nbsp;
 
 ![Kaustubh's Github Stats](https://github-readme-stats.vercel.app/api?username=chromerai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chromerai.chromerai)
