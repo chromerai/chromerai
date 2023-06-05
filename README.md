@@ -13,7 +13,7 @@ I did my undergrad in [Electronics and Instrumentation Engineering](http://eie.n
 
 With a solid foundation in mathematics, statistics, and programming, I am constantly exploring innovative ways to extract valuable insights from complex datasets. I have a keen interest in applying machine learning algorithms and predictive modeling techniques to solve real-world problems. Leveraging my strong analytical skills and curiosity, I strive to uncover hidden patterns and drive data-driven decision-making processes.
 
-If you're looking for a dedicated and driven data scientist to join your team or collaborate on a project, I would be thrilled to explore potential opportunities. Please feel free to reach out to me via the contact information provided on my GitHub profile. Let's connect, share ideas, and together, create impactful solutions in the world of data science.
+If you're looking for a dedicated and driven individual to join your team or collaborate on a project, I would be thrilled to explore potential opportunities. Please feel free to reach out to me via the contact information provided on my GitHub profile. Let's connect, share ideas, and together, create impactful solutions in the world of data science.
 
 
 - 📫 How to reach me: kaustubhmishra983@gmail.com, km5939@nyu.edu
