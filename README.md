@@ -1,5 +1,5 @@
 # <div align="center">
-   <h1>Hi! there, I'm <a href=>Kaustubh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi! there, I'm <a href= "https://github.com/chromerai">Kaustubh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 <!--
 **chromerai/chromerai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
