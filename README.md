@@ -41,9 +41,9 @@ If you're looking for a dedicated and driven individual to join your team or col
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;&nbsp;
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;&nbsp;
 
-![Kaustubh's Github Stats](https://github-readme-stats.vercel.app/api?username=chromerai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&theme=tokyonight)
+[![Kaustubh's Streak Stats](https://streak-stats.demolab.com/?user=chromerai&theme=tokyonight&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chromerai.chromerai)
 
