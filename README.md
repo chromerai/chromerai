@@ -20,8 +20,10 @@ If you're looking for a dedicated and driven individual to join your team or col
 
 - 📫 How to reach me: kaustubhmishra983@gmail.com, km5939@nyu.edu
 - 😄 Pronouns: Techie/He/Him
-- Well also find me on: [LinkedIn](https://www.linkedin.com/in/kaustubh-mishra-54556917b/), [Kaggle](https://www.kaggle.com/chromerai)
+- Well, also find me on: [LinkedIn](https://www.linkedin.com/in/kaustubh-mishra-54556917b/), [Kaggle](https://www.kaggle.com/chromerai)
 - 📝 [Resume](https://drive.google.com/file/d/1q6r9L6R_r1ou8KuuOAzTY9gJ8yzrIupl/view?usp=drive_link)
+- Also, check out my dashboards: [Tableau](https://public.tableau.com/app/profile/kaustubh.mishra7085)
+
 
 **Languages and Tools:** 
 
