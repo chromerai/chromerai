@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Page+🔻+.+.+.;.+.+.+⚠️+Thanks+for+Dropping+by!!+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
+
+
 # <div align="center">
    <h1>Hi! there, I'm <a href= "https://github.com/chromerai">Kaustubh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
