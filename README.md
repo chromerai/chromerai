@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Page+🔻+.+.+.;.+.+.+⚠️+Thanks+for+Dropping+by!!+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Page+🔻+.+.+.;.+.+.+⚜️+Thanks+for+Dropping+by!!+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
 
 
 # <div align="center">
