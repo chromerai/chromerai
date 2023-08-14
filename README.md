@@ -10,7 +10,7 @@
 
 👋 Welcome to my GitHub page!
 
-I'm thrilled to connect with you and showcase my passion for data science. 
+I'm thrilled to connect with you and showcase my passion for tech. 
 
 A little about me: My name is Kaustubh Mishra and I am a master's student at [New York University](https://engineering.nyu.edu/) majoring in [Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). 
 
