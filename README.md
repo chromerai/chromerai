@@ -45,6 +45,7 @@ If you're looking for a dedicated and driven individual to join your team or col
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;&nbsp;
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/Typescript-black%3Flogo%3DTypeScript%26style%3Dsocial?style=social&logo=Typescript&logoColor=blue&labelColor=white)&nbsp;&nbsp;
 
 [![Kaustubh's Streak Stats](https://streak-stats.demolab.com/?user=chromerai&theme=tokyonight&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
