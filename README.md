@@ -50,7 +50,7 @@ If you're looking for a dedicated and driven individual to join your team or col
 
 [![Kaustubh's Streak Stats](https://streak-stats.demolab.com/?user=chromerai&theme=tokyonight&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromerai&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chromerai&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chromerai.chromerai)
 
